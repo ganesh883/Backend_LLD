@@ -1,4 +1,4 @@
-echo "# Backend_LLD
+ "# Backend_LLD
 
 **Backend_LLD** is my personal practice space for building and experimenting with backend **low-level design (LLD)** concepts. It’s a sandbox to practice clean architecture, modular code, and common design patterns.
 
@@ -27,18 +27,3 @@ cd Backend_LLD
 A personal sandbox to practice and improve backend low-level design skills.
 
 ---
-
-## 🤝 Contributing
-- Fork or clone to experiment
-- Open PRs for improvements or refactoring suggestions
-- Explain design decisions when contributing
-
----
-
-## ⚖️ License
-MIT License
-
----
-
-## 📬 Contact
-**GitHub:** [ganesh883](https://github.com/ganesh883)" > README.md
