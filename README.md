@@ -18,6 +18,3 @@ git clone https://github.com/ganesh883/Backend_LLD.git
 cd Backend_LLD
 
 
-📚 Purpose
-
-This repo helps practice low-level backend design, applying SOLID principles, modular architecture, and clean coding practices in a sandbox environment.
